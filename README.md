@@ -55,8 +55,7 @@ The `Web` component performance of `GoFrame`, please refer to third-party projec
 
 
 # Discussion
-- QQ Group：[116707870](//shang.qq.com/wpa/qunwpa?idkey=195f91eceeb5d7fa76009b7cd5a4641f70bf4897b7f5a520635eb26ff17adfe7)
-- WX Group：Add friend`389961817` in WeChat, commenting `GF`
+- WX Group：Add friend`bingdx` in WeChat, commenting `GF`
 - Issues：https://github.com/dxasu/gf/issues
 
 > It's recommended learning `GoFrame` through its awesome source codes and API reference.
